@@ -6,6 +6,8 @@
 *-save.kicad_sch
 *.tmp
 _autosave-*
+*-backups/
+*.zip
 
 # KiCad lock files
 *.lck
@@ -14,6 +16,3 @@ _autosave-*
 fp-info-cache
 *.kicad_prl
 *.kicad_ws
-
-*-backups/
-*.zip
